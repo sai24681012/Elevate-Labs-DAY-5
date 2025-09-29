@@ -7,12 +7,13 @@ Exploratory Data Analysis (EDA)
   This project performs Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries such as Pandas, Matplotlib, and Seaborn. The goal is to uncover patterns, trends, and data quality issues that could inform future modeling or decision-making.
 
 📂 Project Structure
-Code
-Titanic_EDA/
-├── titanic.csv               # Dataset file
-├── Titanic_EDA.ipynb         # Jupyter Notebook with code and visualizations
-├── Titanic_EDA_Report.pdf    # Final report summarizing insights
-└── README.md                 # Project overview and setup instructions
+
+  Code
+  Titanic_EDA/
+  ├── titanic.csv               # Dataset file
+  ├── Titanic_EDA.ipynb         # Jupyter Notebook with code and visualizations
+  ├── Titanic_EDA_Report.pdf    # Final report summarizing insights
+  └── README.md                 # Project overview and setup instructions
 
 ⚙️ Setup Instructions
 1. Clone the Repository
