@@ -14,29 +14,30 @@ Exploratory Data Analysis (EDA)
     Titanic_EDA.ipynb         # Jupyter Notebook with code and visualizations
     Titanic_EDA_Report.pdf    # Final report summarizing insights
      README.md                 # Project overview and setup instructions
+     
+⚙️ Setup Instructions :
 
-⚙️ Setup Instructions
-1. Clone the Repository
+1. Clone the Repository :
    
-  bash
+         -bash
   
-  git clone https://github.com/sai24681012/Elevate-Labs-DAY-5/Titanic_EDA.git
+         -git clone https://github.com/sai24681012/Elevate-Labs-DAY-5/Titanic_EDA.git
   
-  cd Titanic_EDA
-  
-2. Install Dependencies.
+         -cd Titanic_EDA
+          
+2. Install Dependencies :
     
-  Make sure you have Python 3.x installed. Then run:
+   Make sure you have Python 3.x installed. Then run:
   
-  bash
+         - bash
   
-  pip install pandas matplotlib seaborn jupyter
+          -pip install pandas matplotlib seaborn jupyter
 
-4. Launch Jupyter Notebook
+4. Launch Jupyter Notebook :
 
-  bash
+    -bash
   
-  jupyter notebook Titanic_EDA.ipynb
+    -jupyter notebook Titanic_EDA.ipynb
 
 📊 Features Explored
     -Passenger demographics (Age, Sex, Class)
@@ -48,7 +49,7 @@ Exploratory Data Analysis (EDA)
     -Missing data handling
 
 🧠 Skills Practiced
-   - Data cleaning and preprocessing
+     - Data cleaning and preprocessing
 
     -Statistical summaries and visual storytelling
 
