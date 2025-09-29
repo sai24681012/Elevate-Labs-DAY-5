@@ -21,7 +21,7 @@ Exploratory Data Analysis (EDA)
    
          bash
   
-         git clone https://github.com/sai24681012/Elevate-Labs-DAY-5/Titanic_EDA.git
+         git clone https://github.com/sai24681012/Elevate-Labs-DAY-5
   
          cd Titanic_EDA
           
