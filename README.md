@@ -8,12 +8,11 @@ Exploratory Data Analysis (EDA)
 
 📂 Project Structure
 
-  Code
-  Titanic_EDA/
-  ├── titanic.csv               # Dataset file
-  ├── Titanic_EDA.ipynb         # Jupyter Notebook with code and visualizations
-  ├── Titanic_EDA_Report.pdf    # Final report summarizing insights
-  └── README.md                 # Project overview and setup instructions
+    Titanic_EDA
+    titanic.csv               # Dataset file
+    Titanic_EDA.ipynb         # Jupyter Notebook with code and visualizations
+    Titanic_EDA_Report.pdf    # Final report summarizing insights
+     README.md                 # Project overview and setup instructions
 
 ⚙️ Setup Instructions
 1. Clone the Repository
