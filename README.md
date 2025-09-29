@@ -26,11 +26,13 @@ Exploratory Data Analysis (EDA)
   Make sure you have Python 3.x installed. Then run:
   
   bash
+  
   pip install pandas matplotlib seaborn jupyter
 
 4. Launch Jupyter Notebook
 
   bash
+  
   jupyter notebook Titanic_EDA.ipynb
 
 📊 Features Explored
