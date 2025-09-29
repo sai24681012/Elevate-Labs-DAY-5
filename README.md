@@ -19,25 +19,25 @@ Exploratory Data Analysis (EDA)
 
 1. Clone the Repository :
    
-         -bash
+         bash
   
-         -git clone https://github.com/sai24681012/Elevate-Labs-DAY-5/Titanic_EDA.git
+         git clone https://github.com/sai24681012/Elevate-Labs-DAY-5/Titanic_EDA.git
   
-         -cd Titanic_EDA
+         cd Titanic_EDA
           
 2. Install Dependencies :
     
    Make sure you have Python 3.x installed. Then run:
   
-         - bash
+         -bash
   
-          -pip install pandas matplotlib seaborn jupyter
+          pip install pandas matplotlib seaborn jupyter
 
 4. Launch Jupyter Notebook :
 
-    -bash
+      bash
   
-    -jupyter notebook Titanic_EDA.ipynb
+      jupyter notebook Titanic_EDA.ipynb
 
 📊 Features Explored
     -Passenger demographics (Age, Sex, Class)
